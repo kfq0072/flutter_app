@@ -1,11 +1,4 @@
 # flutter_app
-**专栏地址：** 
-- csdn：[Flutter进阶专栏](https://blog.csdn.net/xieluoxixi/column/info/29778)
-- 简书：[Flutter进阶专栏](https://www.jianshu.com/c/06cb6b5b177f)
-- 掘金：[Flutter进阶专栏](https://juejin.im/user/5cb416cef265da03893286ea/posts)
-- hexo：[Flutter进阶专栏](https://my-flutter.github.io/)
-
-
 
 ## 什么是Flutter
 Flutter 是一个跨平台（Android 和 iOS）的移动开发框架，使用的是 Dart 语言。
@@ -35,7 +28,6 @@ Flutter采用 Materal Design 设计语言（规范），该规范定义了用户
 ## 目录
 #### 基础控件篇
 
-![代码预览图](https://github.com/xiedong11/flutter_app/blob/master/images/flutter_widget.gif)
 
 [ Flutter入门进阶之旅（一）-初识Flutter ](https://blog.csdn.net/xieluoxixi/article/details/84068594)
 
